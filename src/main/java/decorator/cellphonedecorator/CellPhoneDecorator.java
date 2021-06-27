@@ -11,4 +11,9 @@ public abstract class CellPhoneDecorator extends CellPhone {
     public void createCellphone() {
         cellPhone.createCellphone();
     }
+
+    @Override
+    public String getName() {
+        return cellPhone.getName();
+    }
 }
