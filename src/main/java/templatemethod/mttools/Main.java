@@ -12,5 +12,6 @@ public class Main {
         warehouse.organizationOfTheWorkingDay();
         System.out.println("---------------NEXT WORKER ------------------");
         shop.organizationOfTheWorkingDay();
+
     }
 }
