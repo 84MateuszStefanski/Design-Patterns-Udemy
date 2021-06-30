@@ -21,5 +21,6 @@ public class Main {
         remote.setMusicPlayerCommand(new PlayRandomTrackCommand(musicPlayer));
         remote.pressButton();
         remote.pressButton();
+
     }
 }
