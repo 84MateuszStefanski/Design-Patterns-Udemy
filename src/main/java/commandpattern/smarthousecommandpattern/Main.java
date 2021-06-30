@@ -4,6 +4,7 @@ import commandpattern.smarthousecommandpattern.smarthouse.SmartHouse;
 import commandpattern.smarthousecommandpattern.smarthouse.commandcenter.OpenTheDoorCommand;
 import commandpattern.smarthousecommandpattern.smarthouse.commandcenter.OpenTheGateCommand;
 import commandpattern.smarthousecommandpattern.smarthouse.commandcenter.SmartHouseCommandCenter;
+import commandpattern.smarthousecommandpattern.smarthouse.commandcenter.RaiseTheBlindsCommand;
 
 
 public class Main {
